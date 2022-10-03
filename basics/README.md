@@ -1,1 +1,1 @@
-SCRIPTS DESCRIPTION
+Basic scripts
