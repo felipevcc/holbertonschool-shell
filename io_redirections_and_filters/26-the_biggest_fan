@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -f 1 | uniq -u | tail -n 11
+cut -f 1 | uniq -u | head -n 11
