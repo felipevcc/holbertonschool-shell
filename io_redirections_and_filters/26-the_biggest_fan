@@ -1,1 +1,2 @@
 #!/bin/bash
+cut -f 1 | uniq -u | head -n 11
