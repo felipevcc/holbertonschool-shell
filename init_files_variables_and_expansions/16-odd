@@ -1,2 +1,2 @@
 #!/bin/bash
-paste - - | tr " " "\n"
+paste - - | cut -f 1
